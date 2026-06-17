@@ -1,0 +1,3 @@
+{
+  "git_graph_analysis": " ```json\n{\n  \"total_commits\": 6,\n  \"branch_names\": [\"Git-Hub\"],\n  \"currently_active_branch\": \"main\",\n  \"most_recent_commit_message\": \"Added a new file\"\n}\n``` "
+}

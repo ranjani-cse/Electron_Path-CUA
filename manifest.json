@@ -1,0 +1,8 @@
+{
+  "task": "Alpha Dashboard Workflow",
+  "start_time": 1781709861.885355,
+  "capture_mode": "som",
+  "overlay_enabled": true,
+  "electron_port": 9222,
+  "vscode_connected": true
+}
